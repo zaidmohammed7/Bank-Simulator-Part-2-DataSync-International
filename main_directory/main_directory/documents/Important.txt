@@ -1,0 +1,10 @@
+Important!
+Please read the following before running the program.
+
+The DataSync® International source code involves a variety of .ico and .png images that ensure a smooth user experience
+and a user-friendly interface. However, while running the program on other systems, certain errors can occur, and the
+interface might not be similar to what is expected. To ensure such errors are not encountered, please open any Graphical
+User Interface (GUI) source code file and create the folders according to the one embedded in the source location folder.
+
+Hope you are having a great time with DataSync® International.
+Team DSI
